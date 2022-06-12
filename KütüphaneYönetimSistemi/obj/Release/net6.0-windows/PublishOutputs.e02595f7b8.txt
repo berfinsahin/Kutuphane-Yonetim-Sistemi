@@ -1,0 +1,11 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\KütüphaneYönetimSistemi.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\KütüphaneYönetimSistemi.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\KütüphaneYönetimSistemi.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\KütüphaneYönetimSistemi.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\KütüphaneYönetimSistemi.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
